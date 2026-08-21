@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**vdupain/vdupain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                   --:---                             vincent@dupain
+                -+*++*#*#%%**                         ────────────
+               +*+=--+**##***++                       Job:      DevOps/SRE/Platform Engineer
+              #*===-----------+                       Location: Trosly Breuil, France
+              #*+--------------=                      Uptime:   51 years, 8 months, 3 days
+             *#*+=+=-----------=                      Blog:     blog.vincentdupain.com
+             *#%%++++*#+++++++=*                      GitHub:   @vdupain
+             =*+*=+##*%=++**%++*                      Contact:  vince9p+contact@pm.me
+             +=+==++**=--=---==+                      Tech:     IaC, Proxmox, k8s, Observability,
+              +++++**+=---#==-=                                 Gitops, Cloud
+               **+*****#*+**+=                        Hobbies:  Cycling (gravel and mountain
+               **+*++#*=+@+#++                                  biking), sport shooting, ham
+          ::.:::#*+++*++++=+*                                   radio, homelab
+    --:::-::----##*=======++                        
+   -:+=-:-:--:-=+*#**+*++*+=::                        "It's a UNIX system! I know this!"
+  :--*+=------==+***###*++==---::                 
+::-:-+===----:==++***+++++-------:::              
+-:---++=--------+=++*+++--------:--::             
+-:-=-++===-:-======++---=-=----:---::::           
+:--==**+++++=#====-==----=------=-=::::::         
+=-===++++++-:-=+====-===---=-==-=-=---::::.       
+====+=+++++=++==+======--==--=-=--==---:::::      
+++==+++++++*===------+*+==-=====-===----:::::     
+=+=++********==+*+=-=====-===+======--------:::   
++++++**===++==++===+====-===+====++===--:::::::   
+***++========++==++====-====+=+=++++===-----::::  
++*+++=====+=+==+++======+++++++++***===----:::::: 
+```

@@ -1,0 +1,21 @@
+name: Update uptime
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-uptime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate README
+        run: python generate-readme.py
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update uptime"
+          commit_user_name: "vdupain-bot"
+          commit_user_email: "vdupain@users.noreply.github.com"
