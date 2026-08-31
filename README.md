@@ -3,7 +3,7 @@
                 -+*++*#*#%%**                         ────────────
                +*+=--+**##***++                       Job:      DevOps/SRE/Platform Engineer
               #*===-----------+                       Location: Trosly Breuil, France
-              #*+--------------=                      Uptime:   51 years, 8 months, 13 days
+              #*+--------------=                      Uptime:   51 years, 8 months, 14 days
              *#*+=+=-----------=                      Blog:     blog.vincentdupain.com
              *#%%++++*#+++++++=*                      GitHub:   @vdupain
              =*+*=+##*%=++**%++*                      Contact:  vince9p+contact@pm.me
